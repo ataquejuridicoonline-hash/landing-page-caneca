@@ -21,3 +21,92 @@ footer .brand-image{width:87px;height:69px}
 .brand-image{width:94px;height:94px;margin:-8px 0}footer .brand-image{width:82px;height:82px;margin:-8px 0}@media(max-width:760px){.brand-image{width:84px;height:84px;margin:-6px 0}footer .brand-image{width:76px;height:76px}}
 
 .hero-photo.photo-3{background-position:100% 100%}
+
+/* Commercial clarity and readable content. */
+.hero h1{font-size:clamp(44px,4.6vw,61px);line-height:1.1;letter-spacing:-2.9px;margin:20px 0 22px}
+.hero-minimum{display:inline-block;margin-top:18px;padding:8px 12px;border:1px solid #e5bbaf;border-radius:6px;background:#f9e9e2;color:#254f4e;font-size:11px;font-weight:700;letter-spacing:.7px}
+.hero-copy>p{font-size:16px;line-height:1.8;max-width:460px}
+.hero-note{font-size:12px;line-height:1.65}
+.hero-copy>.text-link,.text-link{font-size:13px}
+.hero-actions .button{font-size:14px;min-height:54px}
+.header nav{font-size:13px}
+.header .button-small{font-size:12px;min-height:46px}
+.benefit-strip{font-size:13px}
+.section-heading>p{font-size:14px}
+.occasion-picker>button{font-size:12px}
+.card-profile strong{font-size:12px}
+.card-profile small{font-size:9px;letter-spacing:.2px;display:block;margin-top:3px}
+.card-meta{font-size:9px;line-height:1.5}
+.card-content h3{font-size:19px;min-height:52px}
+.card-content p{font-size:13px;line-height:1.7;min-height:67px}
+.card-content button{font-size:13px;min-height:45px}
+.mockup-label{font-size:9px}
+.gallery-note{font-size:12px;line-height:1.7}
+.image-caption{font-size:11px}
+.editorial-copy>p,.quote-copy>p{font-size:15px;line-height:1.8}
+.editorial-copy li{font-size:14px;align-items:flex-start;padding:15px 0}
+.editorial-copy li>span{font-size:12px;padding-top:3px}
+.editorial-copy li strong{font-size:14px;font-weight:650}
+.editorial-copy li p{font-size:13px;line-height:1.75;color:#617974;margin-top:5px}
+.editorial-copy ul{margin-top:18px}
+.step h3{font-size:18px}.step p{font-size:14px;line-height:1.8;max-width:245px}
+.step>span{font-size:12px}
+.quote-transparency{margin-top:22px;max-width:405px;border-left:3px solid #dca797;padding-left:15px}
+.quote-transparency strong{font-size:14px}
+.quote-transparency p{font-size:13px;line-height:1.8;color:#617974;margin-top:7px}
+.minimum-card strong{font-size:15px}.minimum-card p{font-size:13px}
+.date-note p{font-size:13px}.date-note{max-width:405px}
+.quote-panel label{font-size:14px}.quote-panel label span{font-size:12px}
+.quote-panel input,.quote-panel select{min-height:48px;font-size:16px}
+.form-heading{font-size:10px}
+.quantity-row button{font-size:13px;min-height:43px}
+.input-unit>span{font-size:12px}.field-help{font-size:12px;line-height:1.6}
+.form-footnote{font-size:12px;line-height:1.7}
+.form-submit{font-size:14px}.form-error{font-size:13px}
+.chosen-reference{font-size:12px;line-height:1.6}
+.direct-contact{border:1px solid #dce8e4;border-radius:9px;background:#f1f7f3;padding:14px;margin:0 0 22px}
+.direct-contact p{font-size:13px;color:#617974;margin-bottom:6px}
+.direct-contact .text-link{color:#18565d;font-size:14px;font-weight:700}
+.direct-contact>span{display:block;font-size:12px;line-height:1.7;color:#617974;margin-top:8px}
+.summary pre{font-size:14px;line-height:1.8}.summary .button{font-size:14px}
+.chat-pending{font-size:13px;line-height:1.8}
+.faq-section>div>p{font-size:14px}.faqs summary{font-size:15px;line-height:1.6}.faqs details>p{font-size:14px;line-height:1.85}
+.closing h2{font-size:clamp(36px,4.9vw,59px);max-width:950px}
+.closing>p{font-size:13px}.closing .button{font-size:14px}
+footer p,footer button{font-size:12px}footer small{font-size:11px}
+@media(max-width:1100px){.hero h1{font-size:49px;letter-spacing:-2.4px}.hero-actions{flex-wrap:wrap}.card-content h3{min-height:0}.card-content p{min-height:0}.benefit-strip{gap:22px;font-size:12px}}
+@media(max-width:760px){
+.hero h1{font-size:clamp(35px,8.7vw,49px);line-height:1.13;letter-spacing:-1.6px;margin-top:20px}
+.hero-minimum{font-size:10px;padding:7px 9px;margin-top:14px}
+.hero .eyebrow{font-size:9px;letter-spacing:.5px}
+.hero-copy>p{font-size:15px;line-height:1.75}
+.hero-actions{gap:12px;flex-wrap:wrap}.hero-actions .button{font-size:14px}
+.hero-note{font-size:12px}.hero-copy>.text-link{font-size:13px;line-height:1.6}
+.benefit-strip{font-size:12px;gap:18px 12px}.benefit-strip>div{align-items:flex-start;line-height:1.5}
+.section-heading .eyebrow,.editorial-copy .eyebrow,.quote-copy .eyebrow,.faq-section .eyebrow{font-size:10px}
+.occasion-picker>button{font-size:11px;min-width:78px}
+.feed{gap:12px}.card-profile{padding:12px 8px;align-items:center}
+.card-profile strong{font-size:10px}.card-profile small{font-size:7px;line-height:1.5;max-width:118px}
+.card-meta{font-size:8px;align-items:flex-start;line-height:1.5;gap:5px}.card-meta>span:first-child{max-width:95px}
+.card-content{padding:14px 10px}.card-content h3{font-size:17px;line-height:1.4;min-height:70px}
+.card-content p{font-size:12px;line-height:1.75;min-height:105px}
+.card-content button{font-size:12px;gap:7px;min-height:46px}.mockup-label{font-size:8px}
+.gallery-note,.image-caption{font-size:11px;line-height:1.65}
+.editorial-copy>p,.quote-copy>p{font-size:15px}
+.editorial-copy li strong{font-size:14px}.editorial-copy li p{font-size:13px}
+.steps{gap:27px 20px}.step h3{font-size:16px}.step p{font-size:13px}.step>span{font-size:12px}
+.minimum-card p{font-size:12px}.date-note p{font-size:13px}.quote-transparency p{font-size:13px}
+.quote-panel{padding:24px 18px}.quote-panel h3{font-size:23px;line-height:1.35}
+.form-heading{font-size:10px;align-items:flex-start;line-height:1.6}.form-heading>span:last-child{max-width:110px;text-align:right}
+.quote-panel label{font-size:14px}.quote-panel label span{font-size:11px}
+.form-grid{grid-template-columns:1fr;gap:0}.form-grid label{font-size:14px}
+.form-grid input{font-size:16px}.field-help{font-size:12px}
+.form-submit{font-size:14px}.form-footnote{font-size:12px;line-height:1.7}
+.faq-section>div>p{font-size:14px}.faqs summary{font-size:14px}.faqs details>p{font-size:14px}
+.closing{padding:34px 24px}.closing h2{font-size:37px;letter-spacing:-1.5px;line-height:1.2}
+.closing .eyebrow{font-size:9px;line-height:1.8}.closing .button{font-size:14px}.closing>p{font-size:12px;line-height:1.8}
+.mobile-bar>span{font-size:11px}.mobile-bar strong{font-size:12px}
+.mobile-bar .button{font-size:12px;min-height:48px;padding:12px 14px;gap:12px}
+footer{padding-bottom:120px}footer p,footer button{font-size:12px}footer small{font-size:11px}
+}
+@media(max-width:360px){.card-content h3,.card-content p{min-height:0}.mobile-bar{padding-inline:12px}.mobile-bar strong{font-size:11px}.mobile-bar .button{font-size:11px}}
